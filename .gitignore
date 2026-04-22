@@ -1,0 +1,22 @@
+# 密钥与本地环境（绝不能上传）
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# 虚拟环境（若项目里有）
+venv/
+.venv/
+.env.venv/
+
+# 日志与临时文件
+*.log
+
+# 系统/IDE（可选）
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
